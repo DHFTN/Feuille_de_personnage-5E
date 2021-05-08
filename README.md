@@ -7,6 +7,8 @@ Une feuille de personnage pour jouer à des jeux de rôle compatible 5E (D&D, ex
 
 Deux versions sont proposées : une version manuscrite à imprimer et une version éditable dans votre logiciel PDF préféré (avec clacul automatique des principales valeurs).
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X047X1L)
+
 ## _Feuille de personnage - PDF Éditable - v. 2.3_
 
 Nouveautés -
