@@ -1,6 +1,5 @@
 # Feuille de personnage (compatible 5e) - version 2.3
 Fiche de personnage pour jeux de rôle (5E, D&amp;D)
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Offrez-moi un café', '#29abe0', 'X8X047X1L');kofiwidget2.draw();</script> 
 
 **ATTENTION** : Ces fiches sont à éditer avec un logiciel PDF ; Acrobat Reader est recommandé pour un foncitonnement optimal.
 
