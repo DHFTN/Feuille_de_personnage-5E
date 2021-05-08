@@ -1,7 +1,7 @@
 # Feuille de personnage (compatible 5e) - version 2.3
 Fiche de personnage pour jeux de rôle (5E, D&amp;D)
 
-**ATTENTION** : Ces fiches sont à éditer avec un logiciel PDF ; Acrobat Reader est recommandé pour un foncitonnement optimal.
+**ATTENTION** : Ces fiches sont à éditer avec un logiciel PDF ; Acrobat Reader est recommandé pour un fonctionnement optimal.
 
 Une feuille de personnage pour jouer à des jeux de rôle compatible 5E (D&D, ex-H&D, etc.)
 
