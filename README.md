@@ -1,5 +1,5 @@
 # Feuille de personnage (compatible 5e) - version 2.3.1
-Fiche de personnage pour jeux de rôle (5E, D&amp;D)
+Fiche de personnage pour jeux de rôle (5E, D&amp;D - Versions "Règles classiques" et "Règles Cinq Royaumes")
 
 **ATTENTION** : Ces fiches sont à éditer avec un logiciel PDF ; Acrobat Reader est recommandé pour un fonctionnement optimal.
 
