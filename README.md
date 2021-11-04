@@ -1,4 +1,4 @@
-# Feuille de personnage (compatible 5e) - version 2.3.2
+# Feuille de personnage (compatible 5e) (ancienne fiche) - version 2.4
 Fiche de personnage pour jeux de rôle (5E, D&amp;D - Versions "Règles classiques" et "Règles Cinq Royaumes")
 
 **ATTENTION** : Ces fiches sont à éditer avec un logiciel PDF ; Acrobat Reader est recommandé pour un fonctionnement optimal.
@@ -8,6 +8,14 @@ Une feuille de personnage pour jouer à des jeux de rôle compatible 5E (D&D, ex
 Deux versions sont proposées : une version manuscrite à imprimer et une version éditable dans votre logiciel PDF préféré (avec clacul automatique des principales valeurs).
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X047X1L)
+
+## _Feuille de personnage - PDF Éditable - v. 2.4_
+
+Nouveautés -
+- Remplacement des termes suivant la nouvelle traduction parue en 2021 et réalisée par WotC ;
+- Ajout d'une fiche éditable avec un logiciel PDF mais sans calcul. 
+
+ATTENTION : Il s'agit de la dernière mise à jour de cette fiche. Une nouvelle fiche est prochainement disponible et viendra remplacer celle-ci.
 
 ## _Feuille de personnage - PDF Éditable - v. 2.3.2_
 
