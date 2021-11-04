@@ -5,13 +5,13 @@ Fiche de personnage pour jeux de rôle (5E, D&amp;D - Versions "Règles classiqu
 
 Une feuille de personnage pour jouer à des jeux de rôle compatible 5E (D&D, ex-H&D, etc.)
 
-Deux versions sont proposées : une version manuscrite à imprimer et une version éditable dans votre logiciel PDF préféré (avec clacul automatique des principales valeurs).
+Deux versions sont proposées : une version manuscrite à imprimer et une version éditable dans votre logiciel PDF préféré (avec calcul automatique des principales valeurs ou non).
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X047X1L)
 
 ## _Feuille de personnage - PDF Éditable - v. 2.4_
 
-Nouveautés -
+Nouveautés
 - Remplacement des termes suivant la nouvelle traduction parue en 2021 et réalisée par WotC ;
 - Ajout d'une fiche éditable avec un logiciel PDF mais sans calcul. 
 
