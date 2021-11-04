@@ -9,7 +9,7 @@ Deux versions sont proposées : une version manuscrite à imprimer et une versio
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X047X1L)
 
-## _Feuille de personnage - PDF Éditable - v. 2.4_
+## _Feuille de personnage - PDF Éditable ou à compléter avec nouvelles traductions - v. 2.4_
 
 Nouveautés
 - Remplacement des termes suivant la nouvelle traduction parue en 2021 et réalisée par WotC ;
