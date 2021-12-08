@@ -15,7 +15,7 @@ Nouveautés
 - Remplacement des termes suivant la nouvelle traduction parue en 2021 et réalisée par WotC ;
 - Ajout d'une fiche éditable avec un logiciel PDF mais sans calcul. 
 
-ATTENTION : Il s'agit de la dernière mise à jour de cette fiche. Une nouvelle fiche est prochainement disponible et viendra remplacer celle-ci.
+ATTENTION : Il s'agit de la dernière mise à jour de cette fiche. Une nouvelle fiche est désormais disponible et vient remplacer celle-ci.
 
 ## _Feuille de personnage - PDF Éditable - v. 2.3.2_
 
