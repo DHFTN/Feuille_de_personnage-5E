@@ -1,6 +1,8 @@
 # Feuille de personnage (compatible 5e) (ancienne fiche) - version 2.4
 Fiche de personnage pour jeux de rôle (5E, D&amp;D - Versions "Règles classiques" et "Règles Cinq Royaumes")
 
+**NOUVELLE FICHE DISPONIBLE [!ICI](https://github.com/HippoAndElephant/Feuille_Personnage_Square)**
+
 **ATTENTION** : Ces fiches sont à éditer avec un logiciel PDF ; Acrobat Reader est recommandé pour un fonctionnement optimal.
 
 Une feuille de personnage pour jouer à des jeux de rôle compatible 5E (D&D, ex-H&D, etc.)
